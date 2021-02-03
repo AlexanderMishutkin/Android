@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab 3 - Two Activities</string>
+    <string name="footer">Мишуткин Александр Петрович, гр. БПИ 192</string>
+    <string name="title_first">First activity</string>
+    <string name="editText_hint">Enter something...</string>
+    <string name="button_title">GO!</string>
+    <string name="title_second">Second activity</string>
+    <string name="button_title2">BACK</string>
+    <string name="text_view_activity2_annotation">You entered:</string>
+</resources>
