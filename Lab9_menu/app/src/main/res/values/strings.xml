@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab9_menu</string>
+    <string name="hide">Скрыть текст</string>
+    <string name="red">Красный</string>
+    <string name="black">Чёрный</string>
+    <string name="about">О программе</string>
+    <string name="fio">Мишуткин Александр, гр. БПИ-192</string>
+    <string name="green">зеленый</string>
+</resources>

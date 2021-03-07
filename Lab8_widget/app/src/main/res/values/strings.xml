@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab8_widget</string>
+    <string name="appwidget_text">Open site!</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="footer">Мишуткин Александр Петрович, гр. БПИ 192</string>
+    <string name="http_nevbros_ru">http://nevbros.ru</string>
+    <string name="http">http://</string>
+    <string name="url">Enter your URL…</string>
+    <string name="choose">Create link to this website</string>
+</resources>
