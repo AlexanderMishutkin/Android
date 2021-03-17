@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab14_camera</string>
+    <string name="capture">Сделать фото!</string>
+    <string name="about">О программе</string>
+</resources>
