@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab12_sound</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">О программе</string>
+</resources>
