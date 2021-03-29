@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98959472997",
+    "project_id": "proven-airship-306314",
+    "storage_bucket": "proven-airship-306314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98959472997:android:0f79c1ac60c08700dec98c",
+        "android_client_info": {
+          "package_name": "com.example.lab16_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98959472997-suk3886k2s3g1ckadpvhspqekhbuv3c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD-AuRnL9tba-OZAUbf8S8cCAH5zii9ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98959472997-suk3886k2s3g1ckadpvhspqekhbuv3c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
